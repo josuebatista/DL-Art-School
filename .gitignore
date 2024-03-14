@@ -162,7 +162,6 @@ resources/cudnn-windows-x86_64-8.6.0.163_cuda11-archive/LICENSE
 tortoise-tts-fast/
 
 # personal
-archive
-NOTES_unredacted.md
-pyfastmp3decoder/
-
+DL-Art-School.code-workspace
+README.md
+COLAB_USAGE.md
